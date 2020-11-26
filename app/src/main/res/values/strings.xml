@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string-array name="estadocivilarray">
+        <item id="1">Solter@</item>
+        <item>Casad@</item>
+        <item>Viud@</item>
+        <item>Separad@</item>
+        <item>Otro</item>
+    </string-array>
+    <string name="nombreDefault">Introducir nombre</string>
+    <string name="edad">Seleccione su edad:</string>
+    <string name="genero">Seleccione su género:</string>
+    <string name="estadoCivil">Seleccione su estado civil:</string>
+    <string name="apellidosDefault">Introducir apellidos</string>
+    <string name="hijos">Hijos:</string>
+    <string name="borrar">Borrar</string>
+    <string name="listo">Listo</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+
+</resources>
